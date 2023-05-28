@@ -5,41 +5,38 @@ import java.util.regex.Matcher;
 
 public class Main {
     public static void main(String[] args) {
+        int a,b,k;
         Scanner scanner = new Scanner(System.in);
+        System.out.println("---Sumator 2^n - K---");
+        System.out.println("Podaj n: ");
         int n = Integer.parseInt(scanner.nextLine());
-        int k = (int)Math.ceil(Math.log(n)/Math.log(2));
-        System.out.println(n+" "+k);
-        int[][] dots = new int[n][k];
+        do{
+            System.out.println("Podaj A: ");
+            a = Integer.parseInt(scanner.nextLine());
+        }while (AdderValuesValidator.validateAOrB(a,n));
+        do{
+            System.out.println("Podaj B: ");
+            b = Integer.parseInt(scanner.nextLine());
+        }while (AdderValuesValidator.validateAOrB(b,n));
+        do{
+            System.out.println("Podaj K: ");
+            k = Integer.parseInt(scanner.nextLine());
+        }while (AdderValuesValidator.validateK(k,n));
 
-        int border = 1;
-        int borderCounter = 0;
-        int pom = 0;
-        for(int j = 0; j < k; j++){
-            for(int i = 0; i<n;i++){
-                if(pom < border){
-                    dots[i][j] = 0;
-                    pom++;
-                }else{
-                    if(borderCounter < border){
-                        dots[i][j] = 1;
-                        borderCounter++;
-                    }else{
-                        borderCounter = 0;
-                        pom = 1;
-                    }
-                }
-            }
-            borderCounter = 0;
-            pom = 0;
-            border*=2;
-        }
+        AdderModuloK adderModuloK = new AdderModuloK(n,a,b,k);
+        adderModuloK.createABKVectors();
+        adderModuloK.createABPrimVectors();
+        adderModuloK.createHPGVectors();
+        adderModuloK.createHPGPrimVectors();
+        adderModuloK.displayVectors();
 
-        for(int j = 0; j < k; j++){
-            for(int i = 0; i<n;i++){
-                System.out.print(dots[i][j]+" ");
-            }
-            System.out.print("\n");
-        }
 
+        adderModuloK.generateBlackDotsStructure();
+        adderModuloK.displayBlackDotchStructure();
+
+        adderModuloK.createGAndP();
+        adderModuloK.createC();
+        adderModuloK.getResult();
+        adderModuloK.displayResults();
     }
 }
