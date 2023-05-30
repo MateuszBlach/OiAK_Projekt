@@ -115,21 +115,19 @@ public class AdderModuloK {
                                 break;
                             }
                         }
-
                         //trzeba obliczyc indeks czarnej kropki po prawo poziom jeden nizej
                         int right = 0;
                         int buffer = (int)Math.pow(2,floorNumber-1);
                         int b = (int)Math.pow(2,floorNumber);
-                        for(int r = cell-buffer; r >= b -1; r--){
+                        for(int r = cell-buffer; r >= 0; r--){
                             if(dots[r][floorNumber-1] == 1){
                                 right = r;
                                 break;
                             }
                         }
-                        if(above == 0){
+                        if(above == 0 && dots[cell][above] == 0){
                             G[cell][floorNumber] = (vectorG[cell] == 1) || ((vectorP[cell] == 1) && (G[right][floorNumber-1] == 1)) ? 1:0;
                             P[cell][floorNumber] = (vectorP[cell] == 1) && (P[right][floorNumber-1] == 1) ? 1:0;
-
                             GPrim[cell][floorNumber] = (vectorGPrim[cell] == 1) || ((vectorPPrim[cell] == 1) && (GPrim[right][floorNumber-1] == 1)) ? 1:0;
                             PPrim[cell][floorNumber] = (vectorPPrim[cell] == 1) && (PPrim[right][floorNumber-1] == 1) ? 1:0;
                         }else{
@@ -168,6 +166,7 @@ public class AdderModuloK {
 
     public void getResult(){
         vectorCPrim[n-1] = (vectorCPrim[n-1] == 1) || (vectorBPrim[n] == 1) ? 1:0;
+        GPrim[n-1][numberOfFloors-1] = vectorCPrim[n-1];
         Cout = vectorCPrim[n-1];
         vectorS = new int[n];
 
@@ -228,6 +227,7 @@ public class AdderModuloK {
         }
     }
     public void displayBlackDotchStructure(){
+        System.out.println("---Struktura czarnych kropek---");
         for(int j = 0; j < numberOfFloors; j++){
             for(int i = 0; i<n;i++){
                 System.out.print(dots[i][j]+" ");
@@ -235,7 +235,6 @@ public class AdderModuloK {
             System.out.print("\n");
         }
     }
-
     public void displayResults(){
         System.out.println("---P---");
         for(int i = 0; i < numberOfFloors;i++){
@@ -269,5 +268,23 @@ public class AdderModuloK {
         System.out.println("C' = "+Arrays.toString(vectorCPrim));
         System.out.println("Cout = "+Cout);
         System.out.println("S = "+Arrays.toString(vectorS));
+
+        System.out.println(a+"+"+b+"mod"+calculateModulo()+"="+calculateS());
+    }
+
+    public int calculateModulo(){
+        int result = 0;
+        for(int i = 0; i < n; i++){
+            result += vectorK[i]*Math.pow(2,i);
+        }
+        result = (int)Math.pow(2,n) - result;
+        return result;
+    }
+    public int calculateS(){
+        int result = 0;
+        for(int i = 0; i < n; i++){
+            result += vectorS[i]*Math.pow(2,i);
+        }
+        return result;
     }
 }

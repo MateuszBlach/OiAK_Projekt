@@ -11,17 +11,32 @@ public class Main {
         System.out.println("Podaj n: ");
         int n = Integer.parseInt(scanner.nextLine());
         do{
-            System.out.println("Podaj A: ");
-            a = Integer.parseInt(scanner.nextLine());
-        }while (AdderValuesValidator.validateAOrB(a,n));
-        do{
-            System.out.println("Podaj B: ");
-            b = Integer.parseInt(scanner.nextLine());
-        }while (AdderValuesValidator.validateAOrB(b,n));
-        do{
-            System.out.println("Podaj K: ");
+            System.out.println("Podaj K z przedzialu od 3 do "+((int)Math.pow(2,n-1)-1)+": ");
             k = Integer.parseInt(scanner.nextLine());
         }while (AdderValuesValidator.validateK(k,n));
+
+        int[] vectorK = new int[n];
+        int tempK = k;
+        for(int i = 0; i < n;i++) {
+            vectorK[i] = tempK % 2;
+            tempK /= 2;
+        }
+        int result = 0;
+        for(int i = 0; i < n; i++){
+            result += vectorK[i]*Math.pow(2,i);
+        }
+        result = (int)Math.pow(2,n) - result;
+        System.out.println("Modulo: "+result);
+
+        do{
+            System.out.println("Podaj A z przedzialu od 0 do "+(result-1)+": ");
+            a = Integer.parseInt(scanner.nextLine());
+        }while (a < 0 || a >= result);
+        do{
+            System.out.println("Podaj B z przedzialu od 0 do "+(result-1)+": ");
+            b = Integer.parseInt(scanner.nextLine());
+        }while (b < 0 || b >= result);
+
 
         AdderModuloK adderModuloK = new AdderModuloK(n,a,b,k);
         adderModuloK.createABKVectors();
@@ -38,5 +53,6 @@ public class Main {
         adderModuloK.createC();
         adderModuloK.getResult();
         adderModuloK.displayResults();
+
     }
 }
