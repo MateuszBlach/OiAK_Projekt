@@ -28,6 +28,30 @@ public class Main {
         result = (int)Math.pow(2,n) - result;
         System.out.println("Modulo: "+result);
 
+//        dodaj plusa spoko ok
+//        n 4 do 10
+//        k wszystkie mozliwe
+//
+//        bool[] equal = new bool[n]{true};
+//        int licznik = 0;
+//        for(int a = 0; a < modulo;a++){
+//            for(int b = 0; b < modulo;b++){
+//                /// vectorA = (a)
+//                ///
+//                for(int i = 0; i < n; i ++){
+//                    if(h[i] != hPrim[i]){
+//                        if(equal[i] != false){
+//                            equal[i] = false;
+//                            licznik++;
+//                        }
+//                    }
+//                }
+//                if(licznik == n) return;
+//            }
+//        }
+
+
+
         do{
             System.out.println("Podaj A z przedzialu od 0 do "+(result-1)+": ");
             a = Integer.parseInt(scanner.nextLine());

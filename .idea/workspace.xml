@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52531d9d-d686-465f-bd3c-ee0c81715ac2" name="Changes" comment="Próba policzenia">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="52531d9d-d686-465f-bd3c-ee0c81715ac2" name="Changes" comment="Dodana prawidłowa walidacja A i B względem modulo.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AdderModuloK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/AdderModuloK.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,6 +95,8 @@
       <workItem from="1685368618159" duration="1307000" />
       <workItem from="1685376120396" duration="468000" />
       <workItem from="1685446295565" duration="648000" />
+      <workItem from="1685482402490" duration="109000" />
+      <workItem from="1685565364650" duration="508000" />
     </task>
     <task id="LOCAL-00001" summary="Napisana funkcja generująca płaszczyznę czarnych kropek dla zadanego N.">
       <created>1684841808257</created>
@@ -112,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685290901206</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Dodana prawidłowa walidacja A i B względem modulo.">
+      <created>1685482473049</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685482473049</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +139,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Napisana funkcja generująca płaszczyznę czarnych kropek dla zadanego N." />
     <MESSAGE value="Próba policzenia" />
-    <option name="LAST_COMMIT_MESSAGE" value="Próba policzenia" />
+    <MESSAGE value="Dodana prawidłowa walidacja A i B względem modulo." />
+    <option name="LAST_COMMIT_MESSAGE" value="Dodana prawidłowa walidacja A i B względem modulo." />
   </component>
 </project>
