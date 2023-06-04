@@ -287,4 +287,28 @@ public class AdderModuloK {
         }
         return result;
     }
+
+    public int[] getVectorH() {
+        return vectorH;
+    }
+
+    public int[] getVectorP() {
+        return vectorP;
+    }
+
+    public int[] getVectorG() {
+        return vectorG;
+    }
+
+    public int[] getVectorHPrim() {
+        return vectorHPrim;
+    }
+
+    public int[] getVectorPPrim() {
+        return vectorPPrim;
+    }
+
+    public int[] getVectorGPrim() {
+        return vectorGPrim;
+    }
 }
