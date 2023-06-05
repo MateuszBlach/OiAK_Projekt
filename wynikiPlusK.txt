@@ -1,0 +1,481 @@
+
+n: 4 K: 4
+takie same indeksy dla wektora H: 0 
+n: 4 K: 6
+takie same indeksy dla wektora H: 0 
+n: 5 K: 4
+takie same indeksy dla wektora H: 0 
+n: 5 K: 6
+takie same indeksy dla wektora H: 0 
+n: 5 K: 8
+takie same indeksy dla wektora H: 0 
+n: 5 K: 10
+takie same indeksy dla wektora H: 0 
+n: 5 K: 12
+takie same indeksy dla wektora H: 0 
+n: 5 K: 14
+takie same indeksy dla wektora H: 0 
+n: 6 K: 4
+takie same indeksy dla wektora H: 0 
+n: 6 K: 6
+takie same indeksy dla wektora H: 0 
+n: 6 K: 8
+takie same indeksy dla wektora H: 0 
+n: 6 K: 10
+takie same indeksy dla wektora H: 0 
+n: 6 K: 12
+takie same indeksy dla wektora H: 0 
+n: 6 K: 14
+takie same indeksy dla wektora H: 0 
+n: 6 K: 16
+takie same indeksy dla wektora H: 0 
+n: 6 K: 18
+takie same indeksy dla wektora H: 0 
+n: 6 K: 20
+takie same indeksy dla wektora H: 0 
+n: 6 K: 22
+takie same indeksy dla wektora H: 0 
+n: 6 K: 24
+takie same indeksy dla wektora H: 0 
+n: 6 K: 26
+takie same indeksy dla wektora H: 0 
+n: 6 K: 28
+takie same indeksy dla wektora H: 0 
+n: 6 K: 30
+takie same indeksy dla wektora H: 0 
+n: 7 K: 4
+takie same indeksy dla wektora H: 0 
+n: 7 K: 6
+takie same indeksy dla wektora H: 0 
+n: 7 K: 8
+takie same indeksy dla wektora H: 0 
+n: 7 K: 10
+takie same indeksy dla wektora H: 0 
+n: 7 K: 12
+takie same indeksy dla wektora H: 0 
+n: 7 K: 14
+takie same indeksy dla wektora H: 0 
+n: 7 K: 16
+takie same indeksy dla wektora H: 0 
+n: 7 K: 18
+takie same indeksy dla wektora H: 0 
+n: 7 K: 20
+takie same indeksy dla wektora H: 0 
+n: 7 K: 22
+takie same indeksy dla wektora H: 0 
+n: 7 K: 24
+takie same indeksy dla wektora H: 0 
+n: 7 K: 26
+takie same indeksy dla wektora H: 0 
+n: 7 K: 28
+takie same indeksy dla wektora H: 0 
+n: 7 K: 30
+takie same indeksy dla wektora H: 0 
+n: 7 K: 32
+takie same indeksy dla wektora H: 0 
+n: 7 K: 34
+takie same indeksy dla wektora H: 0 
+n: 7 K: 36
+takie same indeksy dla wektora H: 0 
+n: 7 K: 38
+takie same indeksy dla wektora H: 0 
+n: 7 K: 40
+takie same indeksy dla wektora H: 0 
+n: 7 K: 42
+takie same indeksy dla wektora H: 0 
+n: 7 K: 44
+takie same indeksy dla wektora H: 0 
+n: 7 K: 46
+takie same indeksy dla wektora H: 0 
+n: 7 K: 48
+takie same indeksy dla wektora H: 0 
+n: 7 K: 50
+takie same indeksy dla wektora H: 0 
+n: 7 K: 52
+takie same indeksy dla wektora H: 0 
+n: 7 K: 54
+takie same indeksy dla wektora H: 0 
+n: 7 K: 56
+takie same indeksy dla wektora H: 0 
+n: 7 K: 58
+takie same indeksy dla wektora H: 0 
+n: 7 K: 60
+takie same indeksy dla wektora H: 0 
+n: 7 K: 62
+takie same indeksy dla wektora H: 0 
+n: 8 K: 4
+takie same indeksy dla wektora H: 0 
+n: 8 K: 6
+takie same indeksy dla wektora H: 0 
+n: 8 K: 8
+takie same indeksy dla wektora H: 0 
+n: 8 K: 10
+takie same indeksy dla wektora H: 0 
+n: 8 K: 12
+takie same indeksy dla wektora H: 0 
+n: 8 K: 14
+takie same indeksy dla wektora H: 0 
+n: 8 K: 16
+takie same indeksy dla wektora H: 0 
+n: 8 K: 18
+takie same indeksy dla wektora H: 0 
+n: 8 K: 20
+takie same indeksy dla wektora H: 0 
+n: 8 K: 22
+takie same indeksy dla wektora H: 0 
+n: 8 K: 24
+takie same indeksy dla wektora H: 0 
+n: 8 K: 26
+takie same indeksy dla wektora H: 0 
+n: 8 K: 28
+takie same indeksy dla wektora H: 0 
+n: 8 K: 30
+takie same indeksy dla wektora H: 0 
+n: 8 K: 32
+takie same indeksy dla wektora H: 0 
+n: 8 K: 34
+takie same indeksy dla wektora H: 0 
+n: 8 K: 36
+takie same indeksy dla wektora H: 0 
+n: 8 K: 38
+takie same indeksy dla wektora H: 0 
+n: 8 K: 40
+takie same indeksy dla wektora H: 0 
+n: 8 K: 42
+takie same indeksy dla wektora H: 0 
+n: 8 K: 44
+takie same indeksy dla wektora H: 0 
+n: 8 K: 46
+takie same indeksy dla wektora H: 0 
+n: 8 K: 48
+takie same indeksy dla wektora H: 0 
+n: 8 K: 50
+takie same indeksy dla wektora H: 0 
+n: 8 K: 52
+takie same indeksy dla wektora H: 0 
+n: 8 K: 54
+takie same indeksy dla wektora H: 0 
+n: 8 K: 56
+takie same indeksy dla wektora H: 0 
+n: 8 K: 58
+takie same indeksy dla wektora H: 0 
+n: 8 K: 60
+takie same indeksy dla wektora H: 0 
+n: 8 K: 62
+takie same indeksy dla wektora H: 0 
+n: 8 K: 64
+takie same indeksy dla wektora H: 0 
+n: 8 K: 66
+takie same indeksy dla wektora H: 0 
+n: 8 K: 68
+takie same indeksy dla wektora H: 0 
+n: 8 K: 70
+takie same indeksy dla wektora H: 0 
+n: 8 K: 72
+takie same indeksy dla wektora H: 0 
+n: 8 K: 74
+takie same indeksy dla wektora H: 0 
+n: 8 K: 76
+takie same indeksy dla wektora H: 0 
+n: 8 K: 78
+takie same indeksy dla wektora H: 0 
+n: 8 K: 80
+takie same indeksy dla wektora H: 0 
+n: 8 K: 82
+takie same indeksy dla wektora H: 0 
+n: 8 K: 84
+takie same indeksy dla wektora H: 0 
+n: 8 K: 86
+takie same indeksy dla wektora H: 0 
+n: 8 K: 88
+takie same indeksy dla wektora H: 0 
+n: 8 K: 90
+takie same indeksy dla wektora H: 0 
+n: 8 K: 92
+takie same indeksy dla wektora H: 0 
+n: 8 K: 94
+takie same indeksy dla wektora H: 0 
+n: 8 K: 96
+takie same indeksy dla wektora H: 0 
+n: 8 K: 98
+takie same indeksy dla wektora H: 0 
+n: 8 K: 100
+takie same indeksy dla wektora H: 0 
+n: 8 K: 102
+takie same indeksy dla wektora H: 0 
+n: 8 K: 104
+takie same indeksy dla wektora H: 0 
+n: 8 K: 106
+takie same indeksy dla wektora H: 0 
+n: 8 K: 108
+takie same indeksy dla wektora H: 0 
+n: 8 K: 110
+takie same indeksy dla wektora H: 0 
+n: 8 K: 112
+takie same indeksy dla wektora H: 0 
+n: 8 K: 114
+takie same indeksy dla wektora H: 0 
+n: 8 K: 116
+takie same indeksy dla wektora H: 0 
+n: 8 K: 118
+takie same indeksy dla wektora H: 0 
+n: 8 K: 120
+takie same indeksy dla wektora H: 0 
+n: 8 K: 122
+takie same indeksy dla wektora H: 0 
+n: 8 K: 124
+takie same indeksy dla wektora H: 0 
+n: 8 K: 126
+takie same indeksy dla wektora H: 0 
+n: 9 K: 4
+takie same indeksy dla wektora H: 0 
+n: 9 K: 6
+takie same indeksy dla wektora H: 0 
+n: 9 K: 8
+takie same indeksy dla wektora H: 0 
+n: 9 K: 10
+takie same indeksy dla wektora H: 0 
+n: 9 K: 12
+takie same indeksy dla wektora H: 0 
+n: 9 K: 14
+takie same indeksy dla wektora H: 0 
+n: 9 K: 16
+takie same indeksy dla wektora H: 0 
+n: 9 K: 18
+takie same indeksy dla wektora H: 0 
+n: 9 K: 20
+takie same indeksy dla wektora H: 0 
+n: 9 K: 22
+takie same indeksy dla wektora H: 0 
+n: 9 K: 24
+takie same indeksy dla wektora H: 0 
+n: 9 K: 26
+takie same indeksy dla wektora H: 0 
+n: 9 K: 28
+takie same indeksy dla wektora H: 0 
+n: 9 K: 30
+takie same indeksy dla wektora H: 0 
+n: 9 K: 32
+takie same indeksy dla wektora H: 0 
+n: 9 K: 34
+takie same indeksy dla wektora H: 0 
+n: 9 K: 36
+takie same indeksy dla wektora H: 0 
+n: 9 K: 38
+takie same indeksy dla wektora H: 0 
+n: 9 K: 40
+takie same indeksy dla wektora H: 0 
+n: 9 K: 42
+takie same indeksy dla wektora H: 0 
+n: 9 K: 44
+takie same indeksy dla wektora H: 0 
+n: 9 K: 46
+takie same indeksy dla wektora H: 0 
+n: 9 K: 48
+takie same indeksy dla wektora H: 0 
+n: 9 K: 50
+takie same indeksy dla wektora H: 0 
+n: 9 K: 52
+takie same indeksy dla wektora H: 0 
+n: 9 K: 54
+takie same indeksy dla wektora H: 0 
+n: 9 K: 56
+takie same indeksy dla wektora H: 0 
+n: 9 K: 58
+takie same indeksy dla wektora H: 0 
+n: 9 K: 60
+takie same indeksy dla wektora H: 0 
+n: 9 K: 62
+takie same indeksy dla wektora H: 0 
+n: 9 K: 64
+takie same indeksy dla wektora H: 0 
+n: 9 K: 66
+takie same indeksy dla wektora H: 0 
+n: 9 K: 68
+takie same indeksy dla wektora H: 0 
+n: 9 K: 70
+takie same indeksy dla wektora H: 0 
+n: 9 K: 72
+takie same indeksy dla wektora H: 0 
+n: 9 K: 74
+takie same indeksy dla wektora H: 0 
+n: 9 K: 76
+takie same indeksy dla wektora H: 0 
+n: 9 K: 78
+takie same indeksy dla wektora H: 0 
+n: 9 K: 80
+takie same indeksy dla wektora H: 0 
+n: 9 K: 82
+takie same indeksy dla wektora H: 0 
+n: 9 K: 84
+takie same indeksy dla wektora H: 0 
+n: 9 K: 86
+takie same indeksy dla wektora H: 0 
+n: 9 K: 88
+takie same indeksy dla wektora H: 0 
+n: 9 K: 90
+takie same indeksy dla wektora H: 0 
+n: 9 K: 92
+takie same indeksy dla wektora H: 0 
+n: 9 K: 94
+takie same indeksy dla wektora H: 0 
+n: 9 K: 96
+takie same indeksy dla wektora H: 0 
+n: 9 K: 98
+takie same indeksy dla wektora H: 0 
+n: 9 K: 100
+takie same indeksy dla wektora H: 0 
+n: 9 K: 102
+takie same indeksy dla wektora H: 0 
+n: 9 K: 104
+takie same indeksy dla wektora H: 0 
+n: 9 K: 106
+takie same indeksy dla wektora H: 0 
+n: 9 K: 108
+takie same indeksy dla wektora H: 0 
+n: 9 K: 110
+takie same indeksy dla wektora H: 0 
+n: 9 K: 112
+takie same indeksy dla wektora H: 0 
+n: 9 K: 114
+takie same indeksy dla wektora H: 0 
+n: 9 K: 116
+takie same indeksy dla wektora H: 0 
+n: 9 K: 118
+takie same indeksy dla wektora H: 0 
+n: 9 K: 120
+takie same indeksy dla wektora H: 0 
+n: 9 K: 122
+takie same indeksy dla wektora H: 0 
+n: 9 K: 124
+takie same indeksy dla wektora H: 0 
+n: 9 K: 126
+takie same indeksy dla wektora H: 0 
+n: 9 K: 128
+takie same indeksy dla wektora H: 0 
+n: 9 K: 130
+takie same indeksy dla wektora H: 0 
+n: 9 K: 132
+takie same indeksy dla wektora H: 0 
+n: 9 K: 134
+takie same indeksy dla wektora H: 0 
+n: 9 K: 136
+takie same indeksy dla wektora H: 0 
+n: 9 K: 138
+takie same indeksy dla wektora H: 0 
+n: 9 K: 140
+takie same indeksy dla wektora H: 0 
+n: 9 K: 142
+takie same indeksy dla wektora H: 0 
+n: 9 K: 144
+takie same indeksy dla wektora H: 0 
+n: 9 K: 146
+takie same indeksy dla wektora H: 0 
+n: 9 K: 148
+takie same indeksy dla wektora H: 0 
+n: 9 K: 150
+takie same indeksy dla wektora H: 0 
+n: 9 K: 152
+takie same indeksy dla wektora H: 0 
+n: 9 K: 154
+takie same indeksy dla wektora H: 0 
+n: 9 K: 156
+takie same indeksy dla wektora H: 0 
+n: 9 K: 158
+takie same indeksy dla wektora H: 0 
+n: 9 K: 160
+takie same indeksy dla wektora H: 0 
+n: 9 K: 162
+takie same indeksy dla wektora H: 0 
+n: 9 K: 164
+takie same indeksy dla wektora H: 0 
+n: 9 K: 166
+takie same indeksy dla wektora H: 0 
+n: 9 K: 168
+takie same indeksy dla wektora H: 0 
+n: 9 K: 170
+takie same indeksy dla wektora H: 0 
+n: 9 K: 172
+takie same indeksy dla wektora H: 0 
+n: 9 K: 174
+takie same indeksy dla wektora H: 0 
+n: 9 K: 176
+takie same indeksy dla wektora H: 0 
+n: 9 K: 178
+takie same indeksy dla wektora H: 0 
+n: 9 K: 180
+takie same indeksy dla wektora H: 0 
+n: 9 K: 182
+takie same indeksy dla wektora H: 0 
+n: 9 K: 184
+takie same indeksy dla wektora H: 0 
+n: 9 K: 186
+takie same indeksy dla wektora H: 0 
+n: 9 K: 188
+takie same indeksy dla wektora H: 0 
+n: 9 K: 190
+takie same indeksy dla wektora H: 0 
+n: 9 K: 192
+takie same indeksy dla wektora H: 0 
+n: 9 K: 194
+takie same indeksy dla wektora H: 0 
+n: 9 K: 196
+takie same indeksy dla wektora H: 0 
+n: 9 K: 198
+takie same indeksy dla wektora H: 0 
+n: 9 K: 200
+takie same indeksy dla wektora H: 0 
+n: 9 K: 202
+takie same indeksy dla wektora H: 0 
+n: 9 K: 204
+takie same indeksy dla wektora H: 0 
+n: 9 K: 206
+takie same indeksy dla wektora H: 0 
+n: 9 K: 208
+takie same indeksy dla wektora H: 0 
+n: 9 K: 210
+takie same indeksy dla wektora H: 0 
+n: 9 K: 212
+takie same indeksy dla wektora H: 0 
+n: 9 K: 214
+takie same indeksy dla wektora H: 0 
+n: 9 K: 216
+takie same indeksy dla wektora H: 0 
+n: 9 K: 218
+takie same indeksy dla wektora H: 0 
+n: 9 K: 220
+takie same indeksy dla wektora H: 0 
+n: 9 K: 222
+takie same indeksy dla wektora H: 0 
+n: 9 K: 224
+takie same indeksy dla wektora H: 0 
+n: 9 K: 226
+takie same indeksy dla wektora H: 0 
+n: 9 K: 228
+takie same indeksy dla wektora H: 0 
+n: 9 K: 230
+takie same indeksy dla wektora H: 0 
+n: 9 K: 232
+takie same indeksy dla wektora H: 0 
+n: 9 K: 234
+takie same indeksy dla wektora H: 0 
+n: 9 K: 236
+takie same indeksy dla wektora H: 0 
+n: 9 K: 238
+takie same indeksy dla wektora H: 0 
+n: 9 K: 240
+takie same indeksy dla wektora H: 0 
+n: 9 K: 242
+takie same indeksy dla wektora H: 0 
+n: 9 K: 244
+takie same indeksy dla wektora H: 0 
+n: 9 K: 246
+takie same indeksy dla wektora H: 0 
+n: 9 K: 248
+takie same indeksy dla wektora H: 0 
+n: 9 K: 250
+takie same indeksy dla wektora H: 0 
+n: 9 K: 252
+takie same indeksy dla wektora H: 0 
+n: 9 K: 254
+takie same indeksy dla wektora H: 0 
