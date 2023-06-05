@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52531d9d-d686-465f-bd3c-ee0c81715ac2" name="Changes" comment="Program działający dla -K i +K oraz testy">
+    <list default="true" id="52531d9d-d686-465f-bd3c-ee0c81715ac2" name="Changes" comment="wyniki testów">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,6 +97,7 @@
       <workItem from="1685482402490" duration="109000" />
       <workItem from="1685565364650" duration="508000" />
       <workItem from="1685963047578" duration="402000" />
+      <workItem from="1685964992819" duration="296000" />
     </task>
     <task id="LOCAL-00001" summary="Napisana funkcja generująca płaszczyznę czarnych kropek dla zadanego N.">
       <created>1684841808257</created>
@@ -140,6 +141,7 @@
     <MESSAGE value="Napisana funkcja generująca płaszczyznę czarnych kropek dla zadanego N." />
     <MESSAGE value="Próba policzenia" />
     <MESSAGE value="Dodana prawidłowa walidacja A i B względem modulo." />
-    <option name="LAST_COMMIT_MESSAGE" value="Dodana prawidłowa walidacja A i B względem modulo." />
+    <MESSAGE value="wyniki testów" />
+    <option name="LAST_COMMIT_MESSAGE" value="wyniki testów" />
   </component>
 </project>

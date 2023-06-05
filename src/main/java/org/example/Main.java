@@ -217,12 +217,6 @@ public class Main {
                         adderModuloK.createHPGVectors();
                         adderModuloK.createHPGPrimVectors();
 
-
-                        adderModuloK.generateBlackDotsStructure();
-
-                        adderModuloK.createGAndP();
-                        adderModuloK.createC();
-                        adderModuloK.getResult();
                         for (i = 0; i < n; i++) {
                             if (!excludedPiostionVectorG.get(i) && adderModuloK.getVectorG()[i] != adderModuloK.getVectorGPrim()[i]) {
                                 excludedPiostionVectorG.set(i);
@@ -318,15 +312,6 @@ public class Main {
                         adderModuloK.createABPrimVectors();
                         adderModuloK.createHPGVectors();
                         adderModuloK.createHPGPrimVectors();
-
-
-                        adderModuloK.generateBlackDotsStructure();
-
-                        adderModuloK.createGAndP();
-                        adderModuloK.createC();
-                        adderModuloK.getResult();
-
-
 
                         for (i = 0; i <= n; i++) {
                             if( !excludedPiostionVectorG.get(i) && adderModuloK.getVectorG()[i] != adderModuloK.getVectorGPrim()[i]){
